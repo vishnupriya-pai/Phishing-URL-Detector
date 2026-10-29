@@ -1,4 +1,4 @@
-# EWB Phishing URL Awareness Checker
+# Phishing URL Awareness Checker
 
 ## Overview
 
